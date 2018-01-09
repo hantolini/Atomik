@@ -36,3 +36,8 @@ Además de moverse, el vehículo contará con:
 1. 1x receptor bluetooth HC-05 (o HC-06)
 1. 2x Baterias 18650, 4000mAh, 3.7V
 1. Chassis de acrílico.
+
+## Información adicional
+
+Se puede consultar más info en el siguiente link [http://softwaresouls.com/softwaresouls/series/cheapest-robot/](http://softwaresouls.com/softwaresouls/series/cheapest-robot/)
+
